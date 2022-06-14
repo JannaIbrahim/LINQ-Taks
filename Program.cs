@@ -60,15 +60,17 @@ namespace LINQAssignment1
             //Console.WriteLine(FirstGT1000); 
             #endregion
 
+            #region 3
             //3. Retrieve the second number greater than 5 
 
             //int[] Arr = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
 
-            //var secondGT5 = Arr.SkipWhile(n => n <= 5);
+            //var secondGT5 = Arr.OrderBy(a => a).SkipWhile(n => n <= 5).Skip(1).FirstOrDefault();
 
-            //foreach(var i in secondGT5)
-            //    Console.WriteLine(i);
 
+            //Console.WriteLine(secondGT5);
+
+            #endregion
 
 
             #endregion
