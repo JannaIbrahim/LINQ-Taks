@@ -1,0 +1,13 @@
+D:\DotNET\LINQ\LINQAssignment2\bin\Debug\netcoreapp3.1\LINQAssignment2.exe
+D:\DotNET\LINQ\LINQAssignment2\bin\Debug\netcoreapp3.1\LINQAssignment2.deps.json
+D:\DotNET\LINQ\LINQAssignment2\bin\Debug\netcoreapp3.1\LINQAssignment2.runtimeconfig.json
+D:\DotNET\LINQ\LINQAssignment2\bin\Debug\netcoreapp3.1\LINQAssignment2.runtimeconfig.dev.json
+D:\DotNET\LINQ\LINQAssignment2\bin\Debug\netcoreapp3.1\LINQAssignment2.dll
+D:\DotNET\LINQ\LINQAssignment2\bin\Debug\netcoreapp3.1\LINQAssignment2.pdb
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.csprojAssemblyReference.cache
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.csproj.CoreCompileInputs.cache
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.AssemblyInfoInputs.cache
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.AssemblyInfo.cs
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.dll
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.pdb
+D:\DotNET\LINQ\LINQAssignment2\obj\Debug\netcoreapp3.1\LINQAssignment2.genruntimeconfig.cache
